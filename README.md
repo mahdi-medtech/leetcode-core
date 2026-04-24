@@ -2,18 +2,20 @@
 
 ## Overview
 
-This repository contains a structured collection of LeetCode solutions focused on building a strong foundation in Data Structures and Algorithms.
+This repository contains a structured collection of LeetCode solutions aimed at building a strong foundation in Data Structures and Algorithms.
 
-The objective is to develop consistent problem-solving ability, optimize logical thinking, and strengthen core concepts required for high-performance computing and technical interviews.
+The primary goal is to develop consistent problem-solving ability, improve logical thinking, and master core concepts required for high-performance systems and technical interviews.
 
 ---
 
 ## Core Focus Areas
 
-* Arrays and basic data manipulation
+* Arrays and data manipulation
 * Strings and pattern handling
 * Stack-based problem solving
 * Hashing and frequency analysis
+* Greedy algorithms
+* Two-pointer techniques
 
 ---
 
@@ -23,6 +25,8 @@ The objective is to develop consistent problem-solving ability, optimize logical
 
 * Two Sum
 * Contains Duplicate
+* Best Time to Buy and Sell Stock
+* Move Zeroes
 
 ### Math
 
@@ -36,16 +40,32 @@ The objective is to develop consistent problem-solving ability, optimize logical
 
 * Valid Parentheses
 
+### Dynamic Programming / Greedy
+
+* Maximum Subarray
+
+---
+
+## Concepts Covered
+
+* Arrays & Strings
+* Hashing
+* Stack
+* Greedy Approach
+* Kadane’s Algorithm
+* Two Pointers
+
 ---
 
 ## System Approach
 
-The repository follows a structured approach:
+This repository follows a structured approach:
 
 * One problem per file
 * Clean and readable implementations
-* Focus on optimal logic over brute force
-* Gradual progression from basic to advanced problems
+* Focus on optimal solutions over brute force
+* Emphasis on understanding patterns and logic
+* Continuous progression from basic to advanced problems
 
 ---
 
@@ -53,20 +73,20 @@ The repository follows a structured approach:
 
 * Language: C
 * Platform: LeetCode
-* Approach: Problem-wise modular solutions
+* Approach: Modular, problem-wise solutions
 
 ---
 
 ## Progress Tracking
 
-* Total Problems Solved: 5
-* Focus: Consistency, accuracy, and speed improvement
+* Total Problems Solved: 8
+* Current Focus: Consistency, pattern recognition, and speed improvement
 
 ---
 
 ## Objective
 
-To build deep algorithmic understanding and disciplined problem-solving habits aligned with high-performance systems development.
+To build deep algorithmic understanding and disciplined problem-solving habits aligned with high-performance and low-latency systems development.
 
 ---
 
