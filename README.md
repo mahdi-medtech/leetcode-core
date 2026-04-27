@@ -27,6 +27,7 @@ The primary goal is to develop consistent problem-solving ability, improve logic
 * Contains Duplicate
 * Best Time to Buy and Sell Stock
 * Move Zeroes
+* Product of Array Except Self
 
 ### Math
 
@@ -79,7 +80,7 @@ This repository follows a structured approach:
 
 ## Progress Tracking
 
-* Total Problems Solved: 8
+* Total Problems Solved: 9
 * Current Focus: Consistency, pattern recognition, and speed improvement
 
 ---
