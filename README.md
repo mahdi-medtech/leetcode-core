@@ -2,9 +2,11 @@
 
 ## Overview
 
-This repository contains a structured collection of LeetCode solutions aimed at building a strong foundation in Data Structures and Algorithms.
+This repository contains a structured collection of LeetCode solutions focused on building a strong foundation in Data Structures and Algorithms.
 
-The primary goal is to develop consistent problem-solving ability, improve logical thinking, and master core concepts required for high-performance systems and technical interviews.
+The goal is to build consistent problem-solving ability, strengthen logical thinking, and master core concepts required for high-performance systems and technical interviews.
+
+This repository focuses on solving problems using optimal approaches while identifying reusable patterns such as sliding window, two pointers, and greedy strategies.
 
 ---
 
@@ -45,6 +47,10 @@ The primary goal is to develop consistent problem-solving ability, improve logic
 
 * Maximum Subarray
 
+### Sliding Window
+
+* Longest Substring Without Repeating Characters
+
 ---
 
 ## Concepts Covered
@@ -70,6 +76,16 @@ This repository follows a structured approach:
 
 ---
 
+## Patterns Learned
+
+* Frequency Count (Hashing)
+* Two Pointers
+* Sliding Window
+* Kadane’s Algorithm
+* Stack-based validation
+
+---
+
 ## Technical Implementation
 
 * Language: C
@@ -80,7 +96,7 @@ This repository follows a structured approach:
 
 ## Progress Tracking
 
-* Total Problems Solved: 9
+* Total Problems Solved: 10
 * Current Focus: Consistency, pattern recognition, and speed improvement
 
 ---
