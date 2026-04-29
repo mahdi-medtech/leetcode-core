@@ -23,13 +23,14 @@ This repository focuses on solving problems using optimal approaches while ident
 
 ## Problems Solved
 
-### Arrays
+### Arrays / Hashing
 
 * Two Sum
 * Contains Duplicate
 * Best Time to Buy and Sell Stock
 * Move Zeroes
 * Product of Array Except Self
+* Longest Consecutive Sequence
 
 ### Math
 
@@ -96,7 +97,7 @@ This repository follows a structured approach:
 
 ## Progress Tracking
 
-* Total Problems Solved: 10
+* Total Problems Solved: 11
 * Current Focus: Consistency, pattern recognition, and speed improvement
 
 ---
